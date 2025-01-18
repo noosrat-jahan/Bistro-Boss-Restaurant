@@ -19,3 +19,13 @@ const useMenu = () => {
 };
 
 export default useMenu;
+
+
+
+/**
+ * shared state: 
+ * 1. context api : access data from anywhere in the project.
+ * 2. Redux: state management system.
+ * 3. localstorage: device specific data access or data store
+ * 4. Database: user can access from anywhere if logged in.
+ */
